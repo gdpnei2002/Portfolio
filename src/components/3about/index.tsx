@@ -5,7 +5,9 @@ export function About(){
     return(
         <Container>
             <p  className="">
-                Me chamo José Neilson
+                Me chamo José Neilson sou estudante no ultimo periodo do curso de <strong>Analise e desenvolvimento de sistemas</strong> 
+                abusca de oportunidade para adquirir experiência nas áreas de desenvolvimento de software e web. Tenho experiencia na area
+                Rocketseat
            </p>
         </Container>
     );
