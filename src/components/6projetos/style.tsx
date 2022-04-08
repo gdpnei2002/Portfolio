@@ -2,8 +2,11 @@ import styled from "styled-components";
 
 export const Container = styled.main`
 
-display: grid;
+div{
+    display: grid;
 grid-template-columns: auto auto auto;
+}
+
 
 p{
     color: #b3bdc1;
@@ -39,12 +42,16 @@ a:hover{
 }
 
 @media (max-width: 1500px) {
-    display: grid;
-    grid-template-columns: auto auto;
+    div{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
 }
 
 @media (max-width: 900px) {
-    display: grid;
-    grid-template-columns: auto ;
+    div{
+        display: grid;
+        grid-template-columns: auto ;
+    }
 }
 `;
