@@ -7,13 +7,44 @@ grid-template-columns: auto auto auto;
 
 p{
     color: #b3bdc1;
+    padding: 15px;
+    transition: 1s;
+
+}
+
+p:hover{
+    color: white;
+    transition: 1s;
+
 }
 
 img{
-    width: 400px;
+    width: 100%;
+    border-radius: 4%;
 }
 
 a{
-    padding: 30px;
+    background-color: #1e2735;
+    border-radius: 4%;
+    padding: 15px;
+    margin: 30px;
+    transition: 1s;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: #1a79e5;
+    transition: 1s;
+    color: white;
+}
+
+@media (max-width: 1500px) {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+@media (max-width: 900px) {
+    display: grid;
+    grid-template-columns: auto ;
 }
 `;

@@ -9,7 +9,8 @@ import dtmoney from '../../assets/dtmoney.png';
 export function Projetos(){
     return(
         <Container>
-             {/* <img src={img} alt="" /> */}
+            <h1>Projetos </h1>
+            <p>link para github</p> 
             <a href="https://github.com/gdpnei2002/RENTALX-ROCKETSEAT"><img src={Rentalx} alt="" />
            <p>Rentalx <br />
                Minha primeira aplicação em Node.js, consiste em um CRUD de carros</p></a>
