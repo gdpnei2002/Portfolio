@@ -1,12 +1,12 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import { Container } from "./style";
-// import img from "../../assets/Ativo18.png";
+import img from "../../../assets/perfil.jpg";
 
 
 export function Projetos(){
     return(
         <Container>
-             {/* <img src={img} alt="" /> */}
+          <img src={img} alt="" /> 
             <a href="https://github.com/gdpnei2002/RENTALX-ROCKETSEAT"></a>
            <p>Rentalx</p>
            <a href="https://github.com/gdpnei2002/pokedex-React"></a>
