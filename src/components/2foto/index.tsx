@@ -15,7 +15,7 @@ export function Projetos(){
            <p>landing page ACCAMARGO</p>  
            <a href="https://github.com/gdpnei2002/ignews"></a>
            <p>Ig news</p>
-           <a href="https://github.com/gdpnei2002/dtmoney"></a>
+           <a href="https://github.com/gdpnei2002/dtmoney">DtMone</a>
            <p>DtMoney</p>
         </Container>
     );
