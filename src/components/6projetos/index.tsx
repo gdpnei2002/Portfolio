@@ -21,7 +21,7 @@ export function Projetos(){
             <p>Pokedex<br />
             Desafio proposto por Vinicius Pasquatonio</p></a>
                 <a href="https://github.com/gdpnei2002/landing-page-ACCAMARGO"><img src={Rentalx} alt="" />
-            <p>landing page A.C.CAMARGO<br />
+            <p>Landing page A.C.CAMARGO<br />
                 freelance solicitado pelo hospital A.C.Camargo feita em React.JS</p></a>
             <a href="https://github.com/gdpnei2002/ignews"><img src={ignews} alt="" />
             <p>Ig news<br />

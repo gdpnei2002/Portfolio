@@ -9,7 +9,7 @@ export function About(){
             <div>
             <h1>Sobre mim</h1>
             <p  className="">
-                Me chamo José Neilson sou estudante no ultimo periodo do curso de <strong>Analise e desenvolvimento de sistemas </strong>,
+                Me chamo José Neilson sou estudante no ultimo periodo do curso de <strong>Analise e desenvolvimento de sistemas</strong>,
                 estou busca de oportunidade para adquirir experiência nas áreas de desenvolvimento de software e web. Tenho experiencia na area
                 Rocketseat. <br /><br />
                 Atuo como desenvolvedor freelance, desenvolvendo de aplicações web com objetivo de facilitar o controle de serviços/vendas de determinado estabelecimento.
