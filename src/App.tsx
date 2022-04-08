@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import { Contato } from './components/10contato';
 import { Header } from './components/1header';
 import { About} from './components/3about';
 import { Xp} from './components/4xp';
@@ -14,6 +15,7 @@ function App() {
    <About />
    <Xp />
    <Estu />
+   <Contato />
    </>
   );
 }
