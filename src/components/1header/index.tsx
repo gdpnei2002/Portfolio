@@ -9,14 +9,11 @@ export function Header(){
                     <div className="App">
                     <div className="topnav" id="myTopnav">
                         <a href="#.">Inicio</a>
-                        <a href="#news">Sobre</a>
-                        <a href="#contact">Experiência</a>
-                        <a href="#about">Estudos</a>
-                        <a href="a">Projetos</a>
-                        <a href="10">Contatos</a>
-                        <img src="" alt="" />
-                        <input type="checkbox" />
-
+                        <a href="#sobre">Sobre</a>
+                        <a href="#xp">Experiência</a>
+                        <a href="#es">Estudos</a>
+                        <a href="#pro">Projetos</a>
+                        <a href="#con">Contatos</a>
                     </div>
                     </div>
                 </header>

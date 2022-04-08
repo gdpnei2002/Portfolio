@@ -5,7 +5,7 @@ import perfil from '../../assets/perfilrosto.jpeg';
 export function About(){
     return(
         <Container>
-            <img src={perfil} alt="" />
+            <img id="sobre" src={perfil} alt="" />
             <div>
             <h1>Sobre mim</h1>
             <p  className="">

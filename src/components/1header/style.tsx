@@ -1,10 +1,17 @@
 import styled from "styled-components";
 
 export const Container = styled.main`
+
+position:sticky;
+overflow: hidden;
+position: fixed;
+width: 100%;
     
 .topnav {
     background-color: #161b22;
     overflow: hidden;
+    position:sticky;
+
   }
   
   .topnav a {
@@ -15,6 +22,7 @@ export const Container = styled.main`
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    font-family:Arial, Helvetica, sans-serif;
   }
   
   .topnav a:hover {

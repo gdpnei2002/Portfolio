@@ -7,6 +7,11 @@ export const Container = styled.main`
     margin-left:30%;
 }
 
+h1{
+    margin-left:10%;
+    padding-left: 50px;
+}
+
 p{
     color: #b3bdc1;
     width: 50%;

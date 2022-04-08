@@ -5,9 +5,7 @@ import { Container } from "./style";
 export function Estu(){
     return(
         <Container>
-            <p className="ESTUDOS">
-                ESTUDOS
-            </p>
+           <h1 id="es">Estudos:</h1>
             <p  className="titulo">
                 Curso da rocketseat 
             </p>
@@ -15,10 +13,11 @@ export function Estu(){
                 Dez.2021 - Atualmente
            </p>
            <p  className="tipo">
-                Faculdade
+                Ead.
             </p>
             <p  className="detalhes">
-                Detalhes
+                Na Rocketseat aprendo a construção de aplicações em Next.js, integrações de api e etc. <br /><br />
+                Já no back end, temos aulas criações API e de sistemas completos em Node.js
             </p>
             <p  className="titulo">
                 Análise e Desenvolvimento de Sistemas
@@ -30,7 +29,7 @@ export function Estu(){
                 Faculdade
             </p>
             <p  className="detalhes">
-                Detalhes
+            A graduação me proporcionou várias experiêcias na área, criando uma network com profissionais que atuaantes no mercado, assim, fazendo com que eu tenha conseguido meus primeiros freelacer.
             </p>
         </Container>
     );
