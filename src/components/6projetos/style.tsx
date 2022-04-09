@@ -7,12 +7,21 @@ div{
 grid-template-columns: auto auto auto;
 }
 
+h1{
+    margin-left:10%;
+    padding-left: 50px;
+}
 
 p{
     color: #b3bdc1;
     padding: 15px;
     transition: 1s;
+}
 
+.p1{
+    margin-left:10%;
+    padding-left: 50px;
+    color: white;
 }
 
 p:hover{
