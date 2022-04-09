@@ -22,12 +22,16 @@ img{
     margin-top: 10%;
     height:600px;
     border-radius: 10%;
-   
 }
 
 @media (max-width: 800px) {
     display: grid;
     grid-template-columns: auto;
+
+    img{
+        height: 300px;
+        margin-left: 10%;
+    }
 }
 
 `;

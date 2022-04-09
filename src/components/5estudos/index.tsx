@@ -7,13 +7,13 @@ export function Estu(){
         <Container>
            <h1 id="es">Estudos:</h1>
             <p  className="titulo">
-                Curso da rocketseat 
+                Curso da Rocketseat 
             </p>
             <p  className="tempo">
                 Dez.2021 - Atualmente
            </p>
            <p  className="tipo">
-                Ead.
+                E.A.D.
             </p>
             <p  className="detalhes">
                 Na Rocketseat aprendo a construção de aplicações em Next.js, integrações de api e etc. <br /><br />

@@ -35,26 +35,15 @@ width: 100%;
   }
   
   @media screen and (max-width: 600px) {
-    .topnav a:not(:first-child) {display: none;}
-    .topnav a.icon {
-      float: right;
-      display: block;
+    .topnav a:not(:first-child) 
+    {
+      display: flex;
+    }
+    .topnav a {
+      font-size:13px;
     }
   }
   
-  @media screen and (max-width: 600px) {
-    .topnav.responsive {position: relative;}
-    .topnav.responsive a.icon {
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-    .topnav.responsive a {
-      float: none;
-      display: block;
-      text-align: left;
-    }
-  }
 `;
 
 

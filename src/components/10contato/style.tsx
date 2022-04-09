@@ -22,4 +22,10 @@ img:hover{
 .gmail{
     height: 100%;
 }
+
+@media (max-width: 800px) {
+
+display: grid;
+grid-template-columns: auto auto;
+}
 `;

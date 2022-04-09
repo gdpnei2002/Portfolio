@@ -7,7 +7,7 @@ export function Header(){
              <div className="App">
                 <header className="App-header">
                     <div className="App">
-                    <div className="topnav" id="myTopnav">
+                    <div className="topnav">
                         <a href="#.">Inicio</a>
                         <a href="#sobre">Sobre</a>
                         <a href="#xp">Experiência</a>
