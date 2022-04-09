@@ -20,7 +20,7 @@ h1{
 
 img{
     margin-top: 10%;
-    height:600px;
+    width: 100%;
     border-radius: 10%;
 }
 
@@ -29,7 +29,7 @@ img{
     grid-template-columns: auto;
 
     img{
-        height: 300px;
+        width: 70%;
         margin-left: 10%;
     }
 }

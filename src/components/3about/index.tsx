@@ -8,14 +8,14 @@ export function About(){
             <img id="sobre" src={perfil} alt="" />
             <div>
             <h1>Sobre mim</h1>
-            <p  className="">
-                Me chamo José Neilson sou estudante no ultimo periodo do curso de <strong>Analise e desenvolvimento de sistemas</strong>,
-                estou busca de oportunidade para adquirir experiência nas áreas de desenvolvimento de software e web. Tenho experiencia na area
-                Rocketseat. <br /><br />
-                Atuo como desenvolvedor freelance, desenvolvendo de aplicações web com objetivo de facilitar o controle de serviços/vendas de determinado estabelecimento.
-            <br />Desenvolvi: sistema de vendas e criação de landing pages.
-           </p>
-           </div>
+                <p  className="">
+                    Meu nome é José Neilson, estudante do ultimo período do curso de Analise e desenvolvimento de sistemas na faculdade,
+                    busco oportunidade para aplicar os meus conhecimento e adquirir experiência nas áreas de desenvolvimento de software e web.
+                    <br /><br />
+                    Atualmente aplico o meu conhecimento em desenvolvimentos freelance, desenvolvendo aplicações web, com objetivo de facilitar os controles comerciais (serviços/vendas) de um determinado estabelecimento.
+                    Desenvolvi front de CRM para sistemas de vendas e criação de landing pages
+                </p>
+            </div>
         </Container>
     );
 }
