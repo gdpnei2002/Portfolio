@@ -30,12 +30,12 @@ export function Projetos(){
                 <a target="_blank" href="https://github.com/gdpnei2002/dtmoney" rel="noreferrer"><img src={dtmoney} alt="" />
                 <p>DtMoney <br /><br />
                 Minha primeira aplicação em React com styled components. Feita para seu controle financeiro.</p></a>
-                <a target="_blank" href="https://github.com/gdpnei2002/dtmoney" rel="noreferrer"><img src={ssaude} alt="" />
+                <a target="_blank" href="##" rel="noreferrer"><img src={ssaude} alt="" />
                 <p>System Saúde<br /><br />
-                Minha primeira aplicação em React com styled components. Feita para seu controle financeiro.</p></a>
+                Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica da minha cidade. Nesse projeto aprendi muito sobre Trello, SCRUM, GIT, Laravel.</p></a>
                 <a target="_blank" href="https://gira.com.br/#/" rel="noreferrer"><img src={gira} alt="" />
                 <p>Gira <br /><br />
-                Primeiro freelancer, solicitado pelo projeto Gira do banco Satander, fiz em parceria com um amigo,</p></a>
+                Primeiro freelancer, solicitado pelo projeto Gira do banco Satander, para promove-lo e detalha-lo. Feito em HTML e CSS com display GRID. Fiz em parceria com um amigo.</p></a>
                 <a target="_blank" href="https://academiadorosto.com" rel="noreferrer"><img src={julia} alt="" />
                 <p>Academia do rosto <br /><br />
                 Freelancer para um workshop de desenvolvimento pessoal, hoje em dia a página está em manutenção mas ainda é possível acessa-la.</p></a>
