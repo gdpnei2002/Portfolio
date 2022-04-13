@@ -12,6 +12,7 @@ export function Header(){
                         <a href="#sobre">Sobre</a>
                         <a href="#xp">Experiência</a>
                         <a href="#es">Estudos</a>
+                        <a href="#skills">Skills</a>
                         <a href="#pro">Projetos</a>
                         <a href="#con">Contatos</a>
                     </div>
