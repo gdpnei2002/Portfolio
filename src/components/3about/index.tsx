@@ -15,6 +15,11 @@ export function About(){
                     Atualmente aplico o meu conhecimento em desenvolvimentos freelance, desenvolvendo aplicações web, com objetivo de facilitar os controles comerciais (serviços/vendas) de um determinado estabelecimento.
                     Desenvolvi front de CRM para sistemas de vendas e criação de landing pages
                 </p>
+                <h1 id="skills">Skills:</h1>
+                <p  className="titulo">Front-End:</p>
+                    <p className="skills">HTML5, CSS3, JS, REACT, SASS, STYLED COMPONENTS.</p>
+                <p  className="titulo">Back-End:</p>
+                    <p className="skills">Node.JS, Laravel, API.</p>
             </div>
         </Container>
     );

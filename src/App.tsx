@@ -7,7 +7,7 @@ import { Xp} from './components/4xp';
 import { Estu} from './components/5estudos';
 import { Contato } from './components/10contato';
 import { Projetos } from './components/6projetos';
-import { Skills } from './components/7skills';
+// import { Skills } from './components/7skills';
 
 
 
@@ -19,7 +19,7 @@ function App() {
    <About />
    <Xp />
    <Estu />
-   <Skills />
+   {/* <Skills /> */}
    <Projetos />
    <Contato />
    </>
