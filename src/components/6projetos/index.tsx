@@ -23,7 +23,7 @@ export function Projetos(){
                 Minha primeira aplicação em Node.js, consiste em um CRUD de carros.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002/pokedex-React" rel="noreferrer"><img src={pokedex} alt="" />
                 <p>Pokedex<br /><br />
-                Desafio proposto por Vinicius Pasquatonio do canal pasquadev. Consiste em uma integração da PokeApi.</p></a>
+                Desafio proposto por Vinicius Pasquatonio do canal Pasquadev. Consiste em uma integração da PokeApi e as estilizações foram por conta própria.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002/ignews" rel="noreferrer"><img src={ignews} alt="" />
                 <p>Ig news<br /><br />
                 Newslatter feita em Next.js, estilização SASS e com API´s como STRIPE para pagamentos, FAUNA para banco de dados, PRISMIC para notícias e login com conta do Google e GitHub.</p></a>
