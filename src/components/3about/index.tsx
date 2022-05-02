@@ -17,9 +17,9 @@ export function About(){
                 </p>
                 <h1 id="skills">Skills:</h1>
                 <p  className="titulo">Front-End:</p>
-                    <p className="skills">HTML5, CSS3, JS, REACT, SASS, STYLED COMPONENTS.</p>
+                    <p className="skills">HTML5, CSS3, JS, REACT.JS, NEXT.JS, STYLED COMPONENTS, SASS, CHAKRA UI.</p>
                 <p  className="titulo">Back-End:</p>
-                    <p className="skills">Node.JS, Laravel, API's.</p>
+                    <p className="skills">Node.JS, Laravel, API's, My SQL.</p>
             </div>
         </Container>
     );
