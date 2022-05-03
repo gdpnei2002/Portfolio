@@ -21,7 +21,7 @@ export function Projetos(){
             <div>
                 <a target="_blank" href="https://github.com/gdpnei2002/RENTALX-ROCKETSEAT" rel="noreferrer"><img src={Rentalx} alt="" />
                 <p>Rentalx <br /><br />
-                Minha primeira aplicação em Node.js, consiste em um CRUD de carros.</p></a>
+                Minha primeira aplicação em Node.js, consiste em um CRUD de carros com ambiente Docker.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002/pokedex-React" rel="noreferrer"><img src={pokedex} alt="" />
                 <p>Pokedex<br /><br />
                 Desafio proposto por Vinicius Pasquatonio do canal Pasquadev. Consiste em uma integração da PokeApi e as estilizações foram por conta própria.</p></a>

@@ -47,6 +47,10 @@ img{
    margin-left:10%;
 }
 
+button{
+    cursor: pointer;
+}
+
 .curriculo:hover{
     color: #9a9e9e;
     transition: 1s;
