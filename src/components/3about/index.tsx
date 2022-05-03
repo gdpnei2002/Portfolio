@@ -20,6 +20,7 @@ export function About(){
                     <p className="skills">HTML5, CSS3, JS, REACT.JS, NEXT.JS, STYLED COMPONENTS, SASS, CHAKRA UI.</p>
                 <p  className="titulo">Back-End:</p>
                     <p className="skills">Node.JS, Laravel, API's, My SQL.</p>
+                <a href="http://localhost:3000/"><button className="curriculo">Currículo</button></a>
             </div>
         </Container>
     );
