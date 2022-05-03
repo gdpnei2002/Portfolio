@@ -8,6 +8,7 @@ import julia from '../../assets/julia.png';
 import acclanding from '../../assets/acclanding.png';
 import gira from '../../assets/gira.png';
 import ssaude from '../../assets/ssaude.jpeg';
+import dashgo from '../../assets/dashgo.png';
 
 
 export function Projetos(){
@@ -24,12 +25,15 @@ export function Projetos(){
                 <a target="_blank" href="https://github.com/gdpnei2002/pokedex-React" rel="noreferrer"><img src={pokedex} alt="" />
                 <p>Pokedex<br /><br />
                 Desafio proposto por Vinicius Pasquatonio do canal Pasquadev. Consiste em uma integração da PokeApi e as estilizações foram por conta própria.</p></a>
-                <a target="_blank" href="https://github.com/gdpnei2002/ignews" rel="noreferrer"><img src={ignews} alt="" />
-                <p>Ig news<br /><br />
-                Newslatter feita em Next.js, estilização SASS e com API´s como STRIPE para pagamentos, FAUNA para banco de dados, PRISMIC para notícias e login com conta do Google e GitHub.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002/dtmoney" rel="noreferrer"><img src={dtmoney} alt="" />
                 <p>DtMoney <br /><br />
                 Minha primeira aplicação em React com styled components. Feita para seu controle financeiro.</p></a>
+                <a target="_blank" href="https://github.com/gdpnei2002/ignews" rel="noreferrer"><img src={ignews} alt="" />
+                <p>Ig news<br /><br />
+                Newslatter feita em Next.js, estilização SASS e com API´s como STRIPE para pagamentos, FAUNA para banco de dados, PRISMIC para notícias e login com conta do Google e GitHub.</p></a>
+                <a target="_blank" href="https://github.com/gdpnei2002/dashgo" rel="noreferrer"><img src={dashgo} alt="" />
+                <p>Dashgo<br /><br />
+                Mais um projeto das aulas da Rocketseat. O dasgo é um sistema de Cadastro de usuários, com páginas de autenticação com Next-aut, dashboard e cadastro de usuários. Sistema desenvolvido em Next.JS e estilizado com Chakra UI</p></a>
                 <a target="_blank" href="##" rel="noreferrer"><img src={ssaude} alt="" />
                 <p>System Saúde<br /><br />
                 Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica da minha cidade. Nesse projeto aprendi muito sobre Trello, SCRUM, GIT, Laravel.</p></a>
@@ -39,7 +43,7 @@ export function Projetos(){
                 <a target="_blank" href="https://academiadorosto.com" rel="noreferrer"><img src={julia} alt="" />
                 <p>Academia do rosto <br /><br />
                 Freelancer para um workshop de desenvolvimento pessoal, hoje em dia a página está em manutenção mas ainda é possível acessa-la.</p></a>
-                <a target="_blank" href="https://github.com/gdpnei2002/dtmoney" rel="noreferrer"><img src={acclanding} alt="" />
+                <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={acclanding} alt="" />
                 <p>ACCamargo <br /><br />
                 Freelance solicitado pelo hospital A.C.Camargo feita em React.JS, mas infelizmente não foi aprovado.</p></a>
            </div>
