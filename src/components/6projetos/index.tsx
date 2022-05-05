@@ -17,7 +17,7 @@ export function Projetos(){
         <Container>
           <hr />
                 <h1 id="pro">Projetos: </h1>
-                <p className="p1">link para github</p> 
+                <p className="p1">Links para github:</p> 
             
             <div>
                 <a target="_blank" href="https://github.com/gdpnei2002/RENTALX-ROCKETSEAT" rel="noreferrer"><img src={Rentalx} alt="" />
@@ -31,13 +31,13 @@ export function Projetos(){
                 Minha primeira aplicação em React com styled components. Feita para seu controle financeiro.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002/ignews" rel="noreferrer"><img src={ignews} alt="" />
                 <p>Ig news<br /><br />
-                Newslatter feita em Next.js, estilização SASS e com API´s como STRIPE para pagamentos, FAUNA para banco de dados, PRISMIC para notícias e login com conta do Google e GitHub.</p></a>
+                Newslatter feita em Next.js, estilização SASS e com API´s como STRIPE para pagamentos, FAUNA para banco de dados, PRISMIC para notícias e login com conta do GitHub.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002/dashgo" rel="noreferrer"><img src={dashgo} alt="" />
                 <p>Dashgo<br /><br />
-                Mais um projeto das aulas da Rocketseat. O dasgo é um sistema de Cadastro de usuários, com páginas de autenticação com Next-aut, dashboard e cadastro de usuários. Sistema desenvolvido em Next.JS e estilizado com Chakra UI</p></a>
+                Mais um projeto das aulas da Rocketseat. O dasgo é um sistema de Cadastro de usuários, com páginas de autenticação com Next-aut, dashboard e cadastro de usuários. Sistema desenvolvido em Next.JS e estilizado com Chakra UI.</p></a>
                 <a target="_blank" href="##" rel="noreferrer"><img src={ssaude} alt="" />
                 <p>System Saúde<br /><br />
-                Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica da minha cidade. Nesse projeto aprendi muito sobre Trello, SCRUM, GIT, Laravel.</p></a>
+                Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica da minha cidade. Nesse projeto aprendi muito sobre JavaScript, Bootstrap, API's, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.</p></a>
                 <a target="_blank" href="https://gira.com.br/#/" rel="noreferrer"><img src={gira} alt="" />
                 <p>Gira <br /><br />
                 Primeiro freelancer, solicitado pelo projeto Gira do banco Satander, para promove-lo e detalha-lo. Feito em HTML e CSS com display GRID. Fiz em parceria com um amigo ultilizando GIT para versionamento de código.</p></a>
