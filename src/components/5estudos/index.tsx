@@ -29,7 +29,7 @@ export function Estu(){
                 Faculdade
             </p>
             <p  className="detalhes">
-            A graduação me proporcionou várias experiêcias na área, criando uma network com profissionais que atuaantes no mercado, assim, fazendo com que eu tenha conseguido meus primeiros freelacer.
+            A graduação me proporcionou várias experiêcias na área, criando uma network com profissionais que atuantes no mercado, assim, fazendo com que eu tenha conseguido meus primeiros freelacer.
             </p>
         </Container>
     );

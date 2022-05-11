@@ -16,8 +16,8 @@ export function Xp(){
                 Freelancer
             </p>
             <p  className="detalhes">
-            Faço landing pages em HTML | CSS | JS | REACT.JS com objetivos de aumentar alcance de seus produtos. <br /><br />
-            Experiência na criação de um sistema de vendas de uma compania da minha cidade.
+            Faço independentimente landing pages em HTML | CSS | JS | REACT.JS | NEXT.JS com objetivos de aumentar alcance de seus produtos. <br /><br />
+            Experiência em uma startup da minha cidade onde criamos um sistemas de vendas para empresas locais, como assistencia médica e consultórios odontológicos. 
             </p>
             <hr />
         </Container>
