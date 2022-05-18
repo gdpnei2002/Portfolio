@@ -10,11 +10,12 @@ img{
 .texto {
     position: absolute;
     color:#207ae1;
+    background-color: black;
     text-align: left;
     top: 40%;
-    margin-left: 20%;
-    line-height: 30px;
-    height: 30px;
+    margin-left: 20%;   
+    height: 80px;
+    width: 280px;
 }
 
 `;
