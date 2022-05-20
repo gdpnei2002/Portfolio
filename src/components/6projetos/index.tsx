@@ -10,6 +10,7 @@ import gira from '../../assets/gira.png';
 import ssaude from '../../assets/ssaude.jpeg';
 import dashgo from '../../assets/dashgo.png';
 import emkt from '../../assets/emkt.png';
+import mycardinho from '../../assets/mycardinho.png';
 
 
 export function Projetos(){
@@ -35,6 +36,9 @@ export function Projetos(){
                 <a target="_blank" href="https://github.com/gdpnei2002/dashgo" rel="noreferrer"><img src={dashgo} alt="" />
                 <p>Dashgo<br /><br />
                 Mais um projeto das aulas da Rocketseat. O dasgo é um sistema de Cadastro de usuários, com páginas de autenticação com Next-aut, dashboard e cadastro de usuários. Sistema desenvolvido em Next.JS e estilizado com Chakra UI.</p></a>
+                <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={mycardinho} alt="" />
+                <p>ACCamargo <br /><br />
+                My cardinho é um trabalho da faculdade, com o objetivo de encerrar nossas atividades. Atualmente é apenas um CRUD. Front-end feito em Next.js, consumindo uma API node.js</p></a>
                 <a target="_blank" href="##" rel="noreferrer"><img src={ssaude} alt="" />
                 <p>System Saúde<br /><br />
                 Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica da minha cidade. Nesse projeto aprendi muito sobre JavaScript, Bootstrap, API's, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.</p></a>
@@ -46,7 +50,7 @@ export function Projetos(){
                 Freelancer para um workshop de desenvolvimento pessoal, hoje em dia a página está em manutenção devido o evento já ter acabado, mas ainda é possível acessa-la.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={emkt} alt="" />
                 <p>E-mail Marketing <br /><br />
-                Primeiro freelance solicitado pelo hospital A.C.Camargo consiste em na realização de e-mails marketing para clientes do hospital para informa-los das últimas notícias como por exemplo: curos realizados pelo hospital, avisos e requerimentos.</p></a>
+                Primeiro freelance solicitado pelo hospital A.C.Camargo consiste em na realização de e-mails marketing para clientes do hospital para informa-los das últimas notícias como por exemplo: cursos realizados pelo hospital, avisos e requerimentos.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={acclanding} alt="" />
                 <p>ACCamargo <br /><br />
                 Freelance solicitado pelo hospital A.C.Camargo feita em React.JS, mas infelizmente não foi aprovado.</p></a>
