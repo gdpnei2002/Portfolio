@@ -37,9 +37,9 @@ export function Projetos(){
                 <a target="_blank" href="https://github.com/gdpnei2002/dashgo" rel="noreferrer"><img src={dashgo} alt="" />
                 <p>Dashgo<br /><br />
                 Mais um projeto das aulas da Rocketseat. O dasgo é um sistema de Cadastro de usuários, com páginas de autenticação com Next-aut, dashboard e cadastro de usuários. Sistema desenvolvido em Next.JS e estilizado com Chakra UI.</p></a>
-                <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={mycardinho} alt="" />
-                <p>ACCamargo <br /><br />
-                My cardinho é um trabalho da faculdade, com o objetivo de encerrar nossas atividades. Atualmente é apenas um CRUD. Front-end feito em Next.js, consumindo uma API node.js</p></a>
+                <a target="_blank" href="https://github.com/gdpnei2002/crud-next-node" rel="noreferrer"><img src={mycardinho} alt="" />
+                <p>My Cardinho <br /><br />
+                My cardinho é um trabalho da faculdade, com o objetivo de encerrar nossas atividades. Atualmente é apenas um CRUD. Front-end feito em Next.js, consumindo uma API Node.js</p></a>
                 <a target="_blank" href="##" rel="noreferrer"><img src={ssaude} alt="" />
                 <p>System Saúde<br /><br />
                 Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica da minha cidade. Nesse projeto aprendi muito sobre JavaScript, Bootstrap, API's, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.</p></a>
@@ -57,7 +57,7 @@ export function Projetos(){
                 Freelance solicitado pelo hospital A.C.Camargo feita em React.JS, mas infelizmente não foi aprovado.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={embreve} alt="" />
                 <p>Em breve<br /><br />
-                Sempre trabalhando em novos projetos ...</p></a>
+                Sempre trabalhando em novos projetos ... <br />Aprendendo atualmente: Next, Node e Angular</p></a>
            </div>
            <hr />
         </Container>
