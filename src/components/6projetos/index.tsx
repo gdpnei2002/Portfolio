@@ -11,6 +11,7 @@ import ssaude from '../../assets/ssaude.jpeg';
 import dashgo from '../../assets/dashgo.png';
 import emkt from '../../assets/emkt.png';
 import mycardinho from '../../assets/mycardinho.png';
+import embreve from '../../assets/embreve.png';
 
 
 export function Projetos(){
@@ -54,6 +55,9 @@ export function Projetos(){
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={acclanding} alt="" />
                 <p>ACCamargo <br /><br />
                 Freelance solicitado pelo hospital A.C.Camargo feita em React.JS, mas infelizmente não foi aprovado.</p></a>
+                <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={embreve} alt="" />
+                <p>Em breve<br /><br />
+                Sempre trabalhando em novos projetos ...</p></a>
            </div>
            <hr />
         </Container>
