@@ -14,8 +14,8 @@ export function Foto(){
            <div className="imagem">
                 <div className="texto">
                     <p> 
-                        &lt;José Neilson 
-                        Desenvolvedor Full Stack /&gt; 
+                    ⠀&lt;José Neilson 
+                        Desenvolvedor Full Stack⠀/&gt; ⠀
                     </p>
                     
                 </div>

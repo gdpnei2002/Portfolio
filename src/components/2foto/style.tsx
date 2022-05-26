@@ -9,25 +9,16 @@ img{
 
 .texto {
     position: absolute;
-    color:#207ae1;
-    background-color: black;
+    color:#ffffff;
     text-align: left;
     top: 40%;
     margin-left: 20%;   
-    height: 80px;
-    width: 280px;
 
-    border-right: 2px solid #ffffff;
+   font-size: 2.5rem;
     max-width: 0;
     white-space: nowrap;
     overflow: hidden;
-    animation:  escrever normal 5s steps(55);
-}
-
-@keyframes pisca {
-    100%{
-        border-right-color: transparent;
-    }
+    animation:   escrever normal 5s steps(55)both;
 }
 
 @keyframes escrever {
@@ -36,7 +27,6 @@ img{
     }
     
 }
-
 
 
 `;
