@@ -8,8 +8,8 @@ export function Header(){
                 <header className="App-header">
                     <div className="App">
                     <div className="topnav">
-                        <a href="#.">Inicio</a>
-                        <a href="#sobre">Sobre</a>
+                        <a href="#inicio">Inicio</a>
+                        {/* <a href="#sobre">Sobre</a> */}
                         <a href="#xp">Experiência</a>
                         <a href="#es">Estudos</a>
                         {/* <a href="#skills">Skills</a> */}

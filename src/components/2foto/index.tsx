@@ -9,7 +9,7 @@ import perfil from '../../assets/perfil.png';
 export function Foto(){
     return(
         <Container>
-           <img src={perfil} alt="" />
+           <img id="inicio" src={perfil} alt="" />
           
            <div className="imagem">
                 <div className="texto">
