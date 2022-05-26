@@ -16,6 +16,27 @@ img{
     margin-left: 20%;   
     height: 80px;
     width: 280px;
+
+    border-right: 2px solid #ffffff;
+    max-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    animation:  escrever normal 5s steps(55);
 }
+
+@keyframes pisca {
+    100%{
+        border-right-color: transparent;
+    }
+}
+
+@keyframes escrever {
+    100%{
+        max-width: 100%;
+    }
+    
+}
+
+
 
 `;
