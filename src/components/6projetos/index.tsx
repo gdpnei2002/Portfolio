@@ -45,7 +45,7 @@ export function Projetos(){
                 Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica da minha cidade. Nesse projeto aprendi muito sobre JavaScript, Bootstrap, API's, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.</p></a>
                 <a target="_blank" href="https://gira.com.br/#/" rel="noreferrer"><img src={gira} alt="" />
                 <p>Gira <br /><br />
-                Primeiro freelancer, solicitado pelo projeto Gira do banco Satander, para promove-lo e detalha-lo. Feito em HTML e CSS com display GRID. Fiz em parceria com um amigo ultilizando GIT para versionamento de código.</p></a>
+                Primeiro freelancer, solicitado pelo projeto Gira do banco Santander, para promove-lo e detalha-lo. Feito em HTML e CSS com display GRID. Fiz em parceria com um amigo ultilizando GIT para versionamento de código.</p></a>
                 <a target="_blank" href="https://academiadorosto.com" rel="noreferrer"><img src={julia} alt="" />
                 <p>Academia do rosto <br /><br />
                 Freelancer para um workshop de desenvolvimento pessoal, hoje em dia a página está em manutenção devido o evento já ter acabado, mas ainda é possível acessa-la.</p></a>

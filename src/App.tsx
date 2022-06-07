@@ -17,9 +17,10 @@ function App() {
    <Header />
    <Foto />
    <About />
+   {/*
    <Xp />
    <Estu />
-   {/* <Skills /> */}
+    <Skills /> */}
    <Projetos />
    <Contato />
    </>
