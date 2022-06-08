@@ -40,7 +40,7 @@ export function Projetos(){
                 <a target="_blank" href="https://github.com/gdpnei2002/crud-next-node" rel="noreferrer"><img src={mycardinho} alt="" />
                 <p>My Cardinho <br /><br />
                 My cardinho é um trabalho da faculdade, com o objetivo de encerrar nossas atividades. Atualmente é apenas um CRUD. Front-end feito em Next.js, consumindo uma API Node.js</p></a>
-                <a target="_blank" href="##" rel="noreferrer"><img src={ssaude} alt="" />
+                <a target="_blank" href="https://www.especializadoemvida.org.br/" rel="noreferrer"><img src={ssaude} alt="" />
                 <p>System Saúde<br /><br />
                 Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica da minha cidade. Nesse projeto aprendi muito sobre JavaScript, Bootstrap, API's, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.</p></a>
                 <a target="_blank" href="https://gira.com.br/#/" rel="noreferrer"><img src={gira} alt="" />
@@ -52,9 +52,9 @@ export function Projetos(){
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={emkt} alt="" />
                 <p>E-mail Marketing <br /><br />
                 Primeiro freelance solicitado pelo hospital A.C.Camargo consiste em na realização de e-mails marketing para clientes do hospital para informa-los das últimas notícias como por exemplo: cursos realizados pelo hospital, avisos e requerimentos.</p></a>
-                <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={acclanding} alt="" />
+                <a target="_blank" href="https://www.especializadoemvida.org.br/" rel="noreferrer"><img src={acclanding} alt="" />
                 <p>ACCamargo <br /><br />
-                Freelance solicitado pelo hospital A.C.Camargo feita em React.JS, mas infelizmente não foi aprovado.</p></a>
+                Freelance de landing page solicitado pelo hospital A.C.Camargo feita em React.JS com intecnção de promover detalhes sobre o tratamento de câncer.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={embreve} alt="" />
                 <p>Em breve<br /><br />
                 Sempre trabalhando em novos projetos ... <br />Aprendendo atualmente: Next, Node e Angular</p></a>
