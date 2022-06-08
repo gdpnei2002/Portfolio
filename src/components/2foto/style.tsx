@@ -12,7 +12,8 @@ img{
     color:#ffffff;
     text-align: left;
     top: 40%;
-    margin-left: 20%;   
+    margin-left: 20%;  
+    background-color: black; 
 
    font-size: 2.5rem;
     max-width: 0;
