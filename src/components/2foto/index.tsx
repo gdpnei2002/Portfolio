@@ -1,11 +1,6 @@
 import { Container } from "./style";
 import perfil from '../../assets/perfil.png';
 
-
-
-
-
-
 export function Foto(){
     return(
         <Container>
@@ -15,7 +10,7 @@ export function Foto(){
                 <div className="texto">
                     <p> 
                     ⠀&lt;José Neilson 
-                        Desenvolvedor Full Stack⠀/&gt; ⠀
+
                     </p>
                     
                 </div>
