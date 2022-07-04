@@ -9,11 +9,11 @@ export function About(){
             <div>
             <h1>Sobre mim</h1>
                 <p  className="">
-                    Meu nome é José Neilson, estudante do ultimo período do curso de Analise e desenvolvimento de sistemas na faculdade,
+                    Meu nome é José Neilson, graduado no curso de Analise e desenvolvimento de sistemas na faculdade,
                     busco oportunidade para aplicar os meus conhecimento e adquirir experiência nas áreas de desenvolvimento de software e web.
                     <br /><br />
                     Atualmente aplico o meu conhecimento em desenvolvimentos freelance, desenvolvendo aplicações web, com objetivo de facilitar os controles comerciais (serviços/vendas) de um determinado estabelecimento.
-                    Desenvolvi front de CRM para sistemas de vendas e criação de landing pages.
+                    Desenvolvi front-end de CRM para alguns sistemas de vendas e criações de landing pages.
                 </p>
                 <h1 id="skills">Skills:</h1>
                 <p  className="titulo">Front-End:</p>
