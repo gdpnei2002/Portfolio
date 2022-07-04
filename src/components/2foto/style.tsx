@@ -14,7 +14,6 @@ img{
     top: 40%;
     margin-left: 20%;  
     background-color: black; 
-
    font-size: 2.5rem;
     max-width: 0;
     white-space: nowrap;
@@ -27,6 +26,14 @@ img{
         max-width: 100%;
     }
     
+}
+
+@media (max-width: 900px) {
+    .texto{
+    top: 40%;
+    margin-left: 5%;  
+    font-size: 1.25rem;
+    }
 }
 
 
