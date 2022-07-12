@@ -12,6 +12,7 @@ import dashgo from '../../assets/dashgo.png';
 import emkt from '../../assets/emkt.png';
 import mycardinho from '../../assets/mycardinho.png';
 import embreve from '../../assets/embreve.png';
+import faetton from '../../assets/faetton.png';
 
 
 export function Projetos(){
@@ -55,6 +56,9 @@ export function Projetos(){
                 <a target="_blank" href="https://www.especializadoemvida.org.br/" rel="noreferrer"><img src={acclanding} alt="" />
                 <p>ACCamargo <br /><br />
                 Freelance de landing page solicitado pelo hospital A.C.Camargo feita em React.JS com intenção de promover detalhes sobre o tratamento de câncer.</p></a>
+                <a target="_blank" href="https://faetton.com/" rel="noreferrer"><img src={faetton} alt="" />
+                <p>Faetton<br /><br />
+                Participei da implementação do layout do e-commerce FAETTON. Uma loja virtual voltada para materiais da terceira arte moderna.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={embreve} alt="" />
                 <p>Em breve<br /><br />
                 Sempre trabalhando em novos projetos ... <br />Aprendendo atualmente: Next, Node e Angular</p></a>
