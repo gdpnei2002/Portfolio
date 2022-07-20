@@ -21,8 +21,7 @@ export function Projetos(){
         <Container>
           <hr />
                 <h1 id="pro">Projetos: </h1>
-                <p className="p1">Links para github:</p> 
-            
+                <p className="p1">Links diretamente para projetos ou repositorio do github:</p> 
             <div>
                 <a target="_blank" href="https://github.com/gdpnei2002/RENTALX-ROCKETSEAT" rel="noreferrer"><img src={Rentalx} alt="" />
                 <p>Rentalx <br /><br />
