@@ -17,9 +17,11 @@ export function About(){
                 </p>
                 <h1 id="skills">Skills:</h1>
                 <p  className="titulo">Front-End:</p>
-                    <p className="skills">HTML5, CSS3, JS, REACT.JS, NEXT.JS, STYLED COMPONENTS, SASS, CHAKRA UI.</p>
+                    <p className="skills">HTML5, CSS3, JS, React.JS, Next.JS e React Native</p>
+                <p  className="titulo">Estilizações:</p>
+                    <p className="skills">STYLED COMPONENTS, SASS, CHAKRA UI.</p>
                 <p  className="titulo">Back-End:</p>
-                    <p className="skills">Node.JS, API's, Docker, Laravel, My SQL.</p>
+                    <p className="skills">Node.JS, Docker, API's, My SQL, Laravel.</p>
                 <a target="_blank"  href="https://drive.google.com/file/d/1631ZQ6xdGRponXct4cKfZ_sgO7ps6iEt/view?usp=sharing" rel="noreferrer"><button className="curriculo">Currículo</button></a>
             </div>
         </Container>
