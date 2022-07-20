@@ -13,6 +13,7 @@ import emkt from '../../assets/emkt.png';
 import mycardinho from '../../assets/mycardinho.png';
 import embreve from '../../assets/embreve.png';
 import faetton from '../../assets/faetton.png';
+import disc from '../../assets/testdisc.png'
 
 
 export function Projetos(){
@@ -56,6 +57,9 @@ export function Projetos(){
                 <a target="_blank" href="https://www.especializadoemvida.org.br/" rel="noreferrer"><img src={acclanding} alt="" />
                 <p>ACCamargo <br /><br />
                 Freelance de landing page solicitado pelo hospital A.C.Camargo feita em React.JS com intenção de promover detalhes sobre o tratamento de câncer.</p></a>
+                <a target="_blank" href="https://psicodaniiconsultoriaonline.com/" rel="noreferrer"><img src={disc} alt="" />
+                <p>Teste de perfil DISC<br /><br />
+                O link irá para a página de psicodanii, o teste está dentro da página e o resultado pode ser consultado diretamente com a mesma. O formulario foi feito em REACT ultilizando 2 bibliotecas.</p></a>
                 <a target="_blank" href="https://faetton.com/" rel="noreferrer"><img src={faetton} alt="" />
                 <p>Faetton<br /><br />
                 Participei da implementação do layout do e-commerce FAETTON. Uma loja virtual voltada para materiais da terceira arte moderna.</p></a>
