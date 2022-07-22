@@ -4,12 +4,16 @@ export const Container = styled.main`
 
 div{
     display: grid;
-grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto;
 }
 
 h1{
     margin-left:10%;
     padding-left: 50px;
+}
+
+hr{
+    margin-top: 3%;
 }
 
 p{

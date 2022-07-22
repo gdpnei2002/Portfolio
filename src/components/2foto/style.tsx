@@ -19,6 +19,7 @@ img{
     white-space: nowrap;
     overflow: hidden;
     animation: escrever normal 5s steps(55)both;
+    padding: 15px
 }
 
 @keyframes escrever {

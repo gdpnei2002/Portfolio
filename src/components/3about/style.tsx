@@ -45,6 +45,8 @@ img{
    color: white;
    font-size: 1.8rem;
    margin-left:10%;
+   margin-top:5%;
+   padding: 5px
 }
 
 button{

@@ -25,6 +25,10 @@ p{
     font-size: 1.3rem;
 }
 
+hr{
+    margin-top: 3%;
+}
+
 @media (max-width: 600px) {
     p{
     margin-left: 10%;
