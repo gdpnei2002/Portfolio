@@ -12,7 +12,6 @@ import dashgo from '../../assets/dashgo.png';
 import emkt from '../../assets/emkt.png';
 import mycardinho from '../../assets/mycardinho.png';
 import embreve from '../../assets/embreve.png';
-import faetton from '../../assets/faetton.png';
 import disc from '../../assets/testdisc.png'
 
 
@@ -59,9 +58,6 @@ export function Projetos(){
                 <a target="_blank" href="https://psicodaniiconsultoriaonline.com/" rel="noreferrer"><img src={disc} alt="" />
                 <p>Teste de perfil DISC<br /><br />
                 O link irá para a página de psicodanii, o teste está dentro da página e o resultado pode ser consultado diretamente com a mesma. O formulario foi feito em REACT ultilizando 2 bibliotecas.</p></a>
-                <a target="_blank" href="https://faetton.com/" rel="noreferrer"><img src={faetton} alt="" />
-                <p>Faetton<br /><br />
-                Participei da implementação do layout do e-commerce FAETTON. Uma loja virtual voltada para materiais da terceira arte moderna.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={embreve} alt="" />
                 <p>Em breve<br /><br />
                 Sempre trabalhando em novos projetos ... <br />Aprendendo atualmente: Next, Node e Angular</p></a>
