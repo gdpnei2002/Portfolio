@@ -14,7 +14,6 @@ import mycardinho from '../../assets/mycardinho.png';
 import embreve from '../../assets/embreve.png';
 import disc from '../../assets/testdisc.png'
 
-
 export function Projetos(){
     return(
         <Container>
