@@ -7,7 +7,7 @@ export function Estu(){
         <Container>
            <h1 id="es">Estudos:</h1>
             <p  className="titulo">
-                Curso da Rocketseat 
+                Curso Ignite da Rocketseat 
             </p>
             <p  className="tempo">
                 Dez.2021 - Atualmente
