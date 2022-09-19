@@ -5,6 +5,8 @@ export const Container = styled.main`
 div{
     display: grid;
     grid-template-columns: auto auto auto;
+    margin-left:5%;
+    margin-right:5%;
 }
 
 h1{

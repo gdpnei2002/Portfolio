@@ -2,9 +2,11 @@ import styled from "styled-components";
 
 export const Container = styled.main`
 
-display: grid;
-grid-template-columns: auto auto;
-padding: 50px;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 50px;
+    margin-left:10%;
+    margin-right:10%;
 
 p{
     color: #b3bdc1;
