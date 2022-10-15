@@ -12,6 +12,10 @@ export const Container = styled.main`
         color: #b3bdc1;
         width: 80%;
         margin-left: 10%;
+        a{
+            color: #1a79e5;
+            text-decoration: none;
+        }
     }
 
     h1{ 

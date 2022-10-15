@@ -54,6 +54,7 @@ a:hover{
     background-color: #1a79e5;
     transition: 1s;
     color: white;
+    box-shadow: 5px 5px #fff;
 }
 
 @media (max-width: 1500px) {
