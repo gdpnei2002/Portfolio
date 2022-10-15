@@ -16,10 +16,22 @@ export function Xp(){
                 Freelancer
             </p>
             <p  className="detalhes">
-            Faço de forma independente landing pages em HTML | CSS | JS | REACT.JS | NEXT.JS | REACT NATIVE com objetivos de aumentar alcance de seus produtos. <br /><br />
-            Experiência em uma startup da minha cidade onde criamos um sistemas de controle de vendas e atendimento para empresas locais, como assistencia médica e consultórios odontológicos. 
+            Faço de forma independente landing pages em HTML | CSS | JS | REACT.JS | ANGULAR com objetivo de aumentar a visibilidade de seus produtos ou serviços. <br /><br />
+            Experiência em criação de CRM's para empresas no ramo de saúde e imobiliário. <br /><br />
             </p>
-            <hr />
+           <p  className="titulo">
+                Desenvolvedor Full-Stack
+            </p>
+            <p  className="tempo">
+                Set.2022 - Atualmente
+           </p>
+           <p  className="tipo">
+                Thinker
+            </p>
+            <p  className="detalhes">
+            Hoje participo da equipe de desenvolvimento da empresa <a href="https://thinkam.net/home" target="_blank"> Think A.M. </a> tenho como foco desenvolver landing pages e sistemas de CRM's
+            </p>
+        <hr />
         </Container>
     );
 }

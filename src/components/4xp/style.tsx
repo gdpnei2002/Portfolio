@@ -13,6 +13,10 @@ p{
     margin-left:30%;
     color: #b3bdc1;
     width: 50%;
+    a{
+        color: #1a79e5;
+        text-decoration: none;
+    }
 }
 
 .titulo{
@@ -33,8 +37,7 @@ hr{
     p{
     margin-left: 10%;
     width: 80%;
-
-}
+    }
 }
 
 `;
