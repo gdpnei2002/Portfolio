@@ -1,7 +1,5 @@
 import { Container } from "./style";
 
-
-
 export function Estu(){
     return(
         <Container>
@@ -10,10 +8,10 @@ export function Estu(){
                 Curso Ignite da Rocketseat 
             </p>
             <p  className="tempo">
-                Dez.2021 - Atualmente
+                Nov.2021 - Atualmente
            </p>
            <p  className="tipo">
-                E.A.D.
+                Curso online
             </p>
             <p  className="detalhes">
                 Na Rocketseat aprendo a construção de aplicações em Next.js, com varias estilizações como styled components, SASS, CHAKRA, integrações de api e etc. <br /><br />
@@ -23,7 +21,7 @@ export function Estu(){
                 Análise e Desenvolvimento de Sistemas
             </p>
             <p  className="tempo">
-                Fevereiro.2020 - Julho.2022
+                Janeiro.2020 - Julho.2022
            </p>
            <p  className="tipo">
                 Faculdade
