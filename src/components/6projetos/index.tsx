@@ -39,13 +39,13 @@ export function Projetos(){
                 <a target="_blank" href="https://github.com/gdpnei2002/crud-next-node" rel="noreferrer"><img src={mycardinho} alt="" />
                 <p>My Cardinho <br /><br />
                 My cardinho é um trabalho da faculdade, com o objetivo de encerrar nossas atividades. Atualmente é apenas um CRUD. Front-end feito em Next.js, consumindo uma API Node.js</p></a>
-                <a target="_blank" href="#" rel="noreferrer"><img src={ssaude} alt="" />
+                <a target="_blank" href="https://portfolioneilson.netlify.app/" rel="noreferrer"><img src={ssaude} alt="" />
                 <p>System Saúde<br /><br />
                 Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica referência em minha cidade. Nesse projeto aprendi muito sobre JavaScript, Bootstrap, API's, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.</p></a>
                 <a target="_blank" href="https://gira.com.br/#/" rel="noreferrer"><img src={gira} alt="" />
                 <p>Gira <br /><br />
                 Primeiro freelancer, solicitado pelo projeto Gira do banco Santander, para promove-lo e detalha-lo. Feito em HTML e CSS com display GRID. Fiz em parceria com um amigo ultilizando GIT para versionamento de código.</p></a>
-                <a target="_blank" href="#" rel="noreferrer"><img src={julia} alt="" />
+                <a target="_blank" href="https://portfolioneilson.netlify.app/" rel="noreferrer"><img src={julia} alt="" />
                 <p>Academia do rosto <br /><br />
                 Freelancer para um workshop de estética natural, infelizmente o evento acabou e não possível mais acessa-lo.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={emkt} alt="" />
