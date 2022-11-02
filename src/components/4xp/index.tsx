@@ -29,7 +29,7 @@ export function Xp(){
                 Thinker
             </p>
             <p  className="detalhes">
-            Hoje participo da equipe de desenvolvimento da empresa <a href="https://thinkam.net/home" target="_blank"> Think A.M. </a> tenho como foco desenvolver landing pages e sistemas de CRM's
+            Hoje participo da equipe de desenvolvimento da empresa <a href="https://thinkam.net/home" target="_blank" rel="noreferrer"> Think A.M. </a> tenho como foco desenvolver landing pages e sistemas de CRM's
             </p>
         <hr />
         </Container>
