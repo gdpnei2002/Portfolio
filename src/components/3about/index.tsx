@@ -12,7 +12,7 @@ export function About(){
                     Meu nome é José Neilson, graduado no curso de Analise e desenvolvimento de sistemas na faculdade,
                     busco oportunidade para aplicar os meus conhecimento e adquirir experiência nas áreas de desenvolvimento de software e web.
                     <br /><br />
-                    Atualmente aplico o meu conhecimento em desenvolvimentos na <a href="https://thinkam.net/home" target="_blank"> Think A.M. </a> desenvolvendo aplicações web, com objetivo de facilitar os controles comerciais (serviços/vendas) de um determinado estabelecimento. <br />
+                    Atualmente aplico o meu conhecimento em desenvolvimentos na <a href="https://thinkam.net/home" target="_blank" rel="noreferrer"> Think A.M. </a> desenvolvendo aplicações web, com objetivo de facilitar os controles comerciais (serviços/vendas) de um determinado estabelecimento. <br />
                     Desenvolvi front-end de CRM's para alguns sistemas de vendas e criações de landing pages.<br />
                     Nas horas vagas faço serviços de freelance
                 </p>
