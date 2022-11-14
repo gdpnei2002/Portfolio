@@ -27,7 +27,7 @@ export function Estu(){
                 Faculdade
             </p>
             <p  className="detalhes">
-            Hoje graduado, vejo que a faculdade me proporcionou várias experiêcias na área, criando uma network com profissionais atuantes no mercado, assim fazendo com que eu tenha conseguido meus primeiros serviços de freelacer.
+            Hoje graduado, vejo que a faculdade me proporcionou várias experiêcias na área, criando uma network com profissionais atuantes no mercado, assim fazendo com que eu tenha conseguido meus primeiros serviços de freelancer.
             </p>
         </Container>
     );

@@ -47,7 +47,7 @@ export function Projetos(){
                 Primeiro freelancer, solicitado pelo projeto Gira do banco Santander, para promove-lo e detalha-lo. Feito em HTML e CSS com display GRID. Fiz em parceria com um amigo ultilizando GIT para versionamento de código.</p></a>
                 <a target="_blank" href="https://portfolioneilson.netlify.app/" rel="noreferrer"><img src={julia} alt="" />
                 <p>Academia do rosto <br /><br />
-                Freelancer para um workshop de estética natural, infelizmente o evento acabou e não possível mais acessa-lo.</p></a>
+                Freelancer para um workshop de estética natural, infelizmente o evento acabou e não é possível mais acessa-lo.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={emkt} alt="" />
                 <p>E-mail Marketing <br /><br />
                 Primeiro freelance solicitado pelo hospital A.C.Camargo consiste em na realização de e-mails marketing para clientes do hospital para informa-los das últimas notícias como por exemplo: cursos realizados pelo hospital, avisos e requerimentos.</p></a>
