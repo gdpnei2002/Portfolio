@@ -35,28 +35,28 @@ export function Projetos(){
                 Newslatter feita em Next.js, estilização SASS e com API´s como STRIPE para pagamentos, FAUNA para banco de dados, PRISMIC para notícias e login com conta do GitHub.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002/dashgo" rel="noreferrer"><img src={dashgo} alt="" />
                 <p>Dashgo<br /><br />
-                Mais um projeto das aulas da Rocketseat. O dasgo é um sistema de Cadastro de usuários, com páginas de autenticação com Next-aut, dashboard e cadastro de usuários. Sistema desenvolvido em Next.JS e estilizado com Chakra UI.</p></a>
+                Mais um projeto das aulas da Rocketseat. O dasgo é um sistema de cadastro de usuários, com páginas de autenticação com Next-aut, dashboard e cadastro de usuários. Sistema desenvolvido em Next.JS e estilizado com Chakra UI.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002/crud-next-node" rel="noreferrer"><img src={mycardinho} alt="" />
                 <p>My Cardinho <br /><br />
                 My cardinho é um trabalho da faculdade, com o objetivo de encerrar nossas atividades. Atualmente é apenas um CRUD. Front-end feito em Next.js, consumindo uma API Node.js</p></a>
                 <a target="_blank" href="https://portfolioneilson.netlify.app/" rel="noreferrer"><img src={ssaude} alt="" />
                 <p>System Saúde<br /><br />
-                Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica referência em minha cidade. Nesse projeto aprendi muito sobre JavaScript, Bootstrap, API's, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.</p></a>
+                Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica referência em minha cidade (Caruaru-PE). Neste projeto aprendi muito sobre JavaScript, Bootstrap, API's, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.</p></a>
                 <a target="_blank" href="https://gira.com.br/#/" rel="noreferrer"><img src={gira} alt="" />
                 <p>Gira <br /><br />
-                Primeiro freelancer, solicitado pelo projeto Gira do banco Santander, para promove-lo e detalha-lo. Feito em HTML e CSS com display GRID. Fiz em parceria com um amigo ultilizando GIT para versionamento de código.</p></a>
+                Primeiro freelance, solicitado pelo projeto Gira do banco Santander, para promove-lo e detalha-lo. Feito em HTML e CSS com display GRID. Fiz em parceria com um amigo utilizando GIT para versionamento de código.</p></a>
                 <a target="_blank" href="https://portfolioneilson.netlify.app/" rel="noreferrer"><img src={julia} alt="" />
                 <p>Academia do rosto <br /><br />
-                Freelancer para um workshop de estética natural, infelizmente o evento acabou e não é possível mais acessa-lo.</p></a>
+                Freelance para um workshop de estética natural, infelizmente o evento acabou, sendo assim não é mais possível acessa-lo.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={emkt} alt="" />
                 <p>E-mail Marketing <br /><br />
-                Primeiro freelance solicitado pelo hospital A.C.Camargo consiste em na realização de e-mails marketing para clientes do hospital para informa-los das últimas notícias como por exemplo: cursos realizados pelo hospital, avisos e requerimentos.</p></a>
+                Primeiro freelance solicitado pelo hospital A.C.Camargo consiste na realização de e-mails marketing para que os clientes do hospital sejam informados das últimas notícias, como por exemplo: cursos realizados pelo hospital, avisos e requerimentos.</p></a>
                 <a target="_blank" href="https://www.especializadoemvida.org.br/" rel="noreferrer"><img src={acclanding} alt="" />
-                <p>ACCamargo <br /><br />
+                <p>A.C.Camargo <br /><br />
                 Freelance de landing page solicitado pelo hospital A.C.Camargo feita em React.JS com intenção de promover detalhes sobre o tratamento de câncer.</p></a>
                 <a target="_blank" href="https://psicodaniiconsultoriaonline.com/" rel="noreferrer"><img src={disc} alt="" />
                 <p>Teste de perfil DISC<br /><br />
-                O link irá para a página de psicodanii, o teste está dentro da página e o resultado pode ser consultado diretamente com a mesma. O formulario foi feito em REACT ultilizando 2 bibliotecas.</p></a>
+                O link irá para a página de psicodanii, onde o teste estará dentro da página e o resultado pode ser consultado diretamente com a mesma. O formulario foi feito em React.JS utilizando 2 bibliotecas.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={embreve} alt="" />
                 <p>Em breve<br /><br />
                 Sempre trabalhando em novos projetos ... <br />Aprendendo atualmente: Next, Node e Angular</p></a>

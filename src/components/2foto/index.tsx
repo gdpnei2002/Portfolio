@@ -9,7 +9,7 @@ export function Foto(){
                 <div className="texto">
                     <p> 
                     &lt;José Neilson 
-                        Desenvolvedor Full Stack⠀/&gt;
+                        Desenvolvedor Full Stack/&gt;
                     </p>
                 </div>
             </div>
