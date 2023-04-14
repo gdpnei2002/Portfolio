@@ -14,6 +14,7 @@ import mycardinho from '../../assets/mycardinho.png';
 import embreve from '../../assets/embreve.png';
 import disc from '../../assets/testdisc.png'
 import vocepolicia from '../../assets/vocenapolicia.png'
+import devpp from '../../assets/devpp.png'
 import cerbrum from '../../assets/cerbrum.png'
 
 export function Projetos(){
@@ -65,6 +66,9 @@ export function Projetos(){
                 <a target="_blank" href="https://www.vocenapolicia.com.br/" rel="noreferrer"><img src={vocepolicia} alt="" />
                 <p>Você na polícia<br /><br />
                 É uma landing page com intenção em fazer a divulgação de um curso voltado para concursos públicos para políciamilitar da hotmart. Projeto desenvolvido em Html, CSS e JavaScript.</p></a>
+                <a target="_blank" href="https://devpp-reload.web.app/" rel="noreferrer"><img src={devpp} alt="" />
+                <p>DEV PP<br /><br />
+                Durante meu desenvolvimentoacabei entrando para uma comunidade de programadores, onde fui desafiado a construir uma landing page em Angula.JS usando como base um template no figma.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={embreve} alt="" />
                 <p>Em breve<br /><br />
                 Sempre trabalhando em novos projetos ... <br />Aprendendo atualmente: Next, Node e Angular</p></a>
