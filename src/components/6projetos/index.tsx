@@ -13,6 +13,7 @@ import emkt from '../../assets/emkt.png';
 import mycardinho from '../../assets/mycardinho.png';
 import embreve from '../../assets/embreve.png';
 import disc from '../../assets/testdisc.png'
+import cerbrum from '../../assets/cerbrum.png'
 
 export function Projetos(){
     return(
@@ -57,6 +58,9 @@ export function Projetos(){
                 <a target="_blank" href="https://psicodaniiconsultoriaonline.com/" rel="noreferrer"><img src={disc} alt="" />
                 <p>Teste de perfil DISC<br /><br />
                 O link irá para a página de psicodanii, onde o teste estará dentro da página e o resultado pode ser consultado diretamente com a mesma. O formulario foi feito em React.JS utilizando 2 bibliotecas.</p></a>
+                <a target="_blank" href="http://cerbrum.com/" rel="noreferrer"><img src={cerbrum} alt="" />
+                <p>Cerbrum<br /><br />
+                Na maior empresa no seguimento de educação na região da minha cidade tem apenas um projeo de mesmo nome, ele consiste em gerenciar toda uma instituição de ensino, seja escola ou faculdade. No Cerbrum trabalhei em um sistema usando principalmente o .Net e JavaScript.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={embreve} alt="" />
                 <p>Em breve<br /><br />
                 Sempre trabalhando em novos projetos ... <br />Aprendendo atualmente: Next, Node e Angular</p></a>
