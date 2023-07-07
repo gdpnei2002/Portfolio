@@ -16,6 +16,7 @@ import disc from '../../assets/testdisc.png'
 import vocepolicia from '../../assets/vocenapolicia.png'
 import devpp from '../../assets/devpp.png'
 import cerbrum from '../../assets/cerbrum.png'
+import firstWeekThinker from '../../assets/firstWeekThinker.png'
 
 export function Projetos(){
     return(
@@ -69,6 +70,9 @@ export function Projetos(){
                 <a target="_blank" href="https://devpp-reload.web.app/" rel="noreferrer"><img src={devpp} alt="" />
                 <p>DEV PP<br /><br />
                 Durante meu desenvolvimentoacabei entrando para uma comunidade de programadores, onde fui desafiado a construir uma landing page em Angula.JS usando como base um template no figma.</p></a>
+                <a target="_blank" href="https://primeirasemanadothinker.web.app/" rel="noreferrer"><img src={firstWeekThinker} alt="" />
+                <p>Primeira semana do Thinker<br /><br />
+                Landing page como desafio feito na semana do thinker, um evento produzido pela Think A.M. com objetivo de estimular o aprendizado de programação para iniciantes e vender a mentoria DEV 360º.</p></a>
                 <a target="_blank" href="https://github.com/gdpnei2002" rel="noreferrer"><img src={embreve} alt="" />
                 <p>Em breve<br /><br />
                 Sempre trabalhando em novos projetos ... <br />Aprendendo atualmente: Next, Node e Angular</p></a>
