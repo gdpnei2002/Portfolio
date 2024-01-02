@@ -7,7 +7,7 @@ import { Xp } from './components/4xp';
 import { Estu } from './components/5estudos';
 // import { Skills } from './components/7skills';
 import { Projetos } from './components/6projetos';
-import { Contato } from './components/10contato';
+import { Contato } from './components/9contato';
 
 
 
