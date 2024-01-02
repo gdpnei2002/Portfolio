@@ -20,7 +20,6 @@ export const Container = styled.main`
 
     h1{ 
         margin-top: 10%;
-        margin-left: 10%;
         padding: 0;
     }
 

@@ -22,7 +22,6 @@ width: 100%;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    font-family:Arial, Helvetica, sans-serif;
   }
   
   .topnav a:hover {
