@@ -62,7 +62,7 @@ const Tag = styled.span`
 const Cards: React.FC<CardProps> = ({ image, text, tags, title, link }) => {
   return (
     <CardContainer>
-      <a target="_blank" href={link}>
+      <a target="_blank" rel="noreferrer" href={link}>
         <CardImage src={image} alt={image} />
       </a>
       <CardContent>
