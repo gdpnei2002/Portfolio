@@ -10,7 +10,7 @@ export function About() {
         <p className="">
           Meu nome é José Neilson, graduado no curso Análise e Desenvolvimento
           de Sistemas na faculdade, estou sempre em busca de oportunidades para
-          aplicar os meus conhecimento e adquirir experiência no desenvolvimento
+          aplicar os meus conhecimentos e adquirir experiência no desenvolvimento
           de aplicações web.
           <br />
           <br />

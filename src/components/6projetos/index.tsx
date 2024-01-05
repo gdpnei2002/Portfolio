@@ -72,7 +72,7 @@ export function Projetos() {
     {
       image: ssaude,
       title: "System Saúde",
-      text: "Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistencia médica referência em minha cidade (Caruaru-PE). Neste projeto aprendi muito sobre JavaScript, Bootstrap, API, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.",
+      text: "Ajudei a desenvolver apenas o front-end do CRM (sistema de vendas) de uma empresa de assistência médica referência em minha cidade (Caruaru-PE). Neste projeto aprendi muito sobre JavaScript, Bootstrap, API, MVC, GIT, Laravel, Factory, Testes, Trello e SCRUM.",
       link: "https://systemsaude.com.br/",
       techs: ["Laravel"],
       tags: ["Trabalho", "CRM", "Laravel"],
@@ -104,7 +104,7 @@ export function Projetos() {
     {
       image: disc,
       title: "Teste de perfil DISC",
-      text: "O link irá para a página de psicodanii, onde o teste estará dentro da página e o resultado pode ser consultado diretamente com a mesma. O formulario foi feito em React.JS utilizando 2 bibliotecas.",
+      text: "O link conduzirá à página da Psicodanii, na qual o teste estará incorporado, permitindo a consulta direta dos resultados com o à própria psicóloga. O formulário foi desenvolvido em React.js, utilizando duas bibliotecas.",
       link: "https://psicodaniiconsultoriaonline.com/",
       techs: ["React"],
       tags: ["Trabalho", "React"],
@@ -112,7 +112,7 @@ export function Projetos() {
     {
       image: cerbrum,
       title: "Cerbrum",
-      text: "Na maior empresa no seguimento de educação na região da minha cidade tem apenas um projeo de mesmo nome, ele consiste em gerenciar toda uma instituição de ensino, seja escola ou faculdade. No Cerbrum trabalhei em um sistema usando principalmente o .Net e JavaScript.",
+      text: "Na maior empresa no seguimento de educação na região da minha cidade tem apenas um projeto de mesmo nome, ele consiste em gerenciar toda uma instituição de ensino, seja escola ou faculdade. No Cerbrum trabalhei em um sistema usando principalmente o .Net e JavaScript.",
       link: "http://cerbrum.com/",
       techs: [".Net"],
       tags: ["Trabalho", "CRM", ".Net"],
@@ -120,7 +120,7 @@ export function Projetos() {
     {
       image: vocepolicia,
       title: "Você na polícia",
-      text: "É uma landing page com intenção em fazer a divulgação de um curso voltado para concursos públicos para políciamilitar da hotmart. Projeto desenvolvido em Html, CSS e JavaScript.",
+      text: "rata-se de uma landing page com o propósito de promover um curso direcionado a concursos públicos para a Polícia Militar, disponível na plataforma Hotmart. Este projeto foi desenvolvido utilizando React",
       link: "https://www.vocenapolicia.com.br/",
       techs: ["React"],
       tags: ["Trabalho", "Landing Page", "React"],
@@ -144,7 +144,7 @@ export function Projetos() {
     {
       image: devpp,
       title: "DEV PP",
-      text: "Durante meu desenvolvimentoacabei entrando para uma comunidade de programadores, onde fui desafiado a construir uma landing page em Angula.JS usando como base um template no figma.",
+      text: "Durante meu desenvolvimento acabei entrando para uma comunidade de programadores, onde fui desafiado a construir uma landing page em Angula.JS usando como base um template no figma.",
       link: "https://devpp-reload.web.app/",
       techs: ["Angular"],
       tags: ["Trabalho", "Landing Page", "Angular"],
