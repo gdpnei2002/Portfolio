@@ -122,7 +122,7 @@ export function Projetos() {
     {
       image: vocepolicia,
       title: "Você na polícia",
-      text: "rata-se de uma landing page com o propósito de promover um curso direcionado a concursos públicos para a Polícia Militar, disponível na plataforma Hotmart. Este projeto foi desenvolvido utilizando React",
+      text: "Trata-se de uma landing page com o propósito de promover um curso direcionado a concursos públicos para a Polícia Militar, disponível na plataforma Hotmart. Este projeto foi desenvolvido utilizando React",
       link: "https://www.vocenapolicia.com.br/",
       techs: ["React"],
       tags: ["Trabalho", "Landing Page", "React"],
