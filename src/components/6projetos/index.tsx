@@ -171,7 +171,7 @@ export function Projetos() {
     {
       image: jadlog,
       title: "Jadlog",
-      text: "Projeto desenvolvido com a equipe da DarwinSoft. Onde atuei como desenvolvedor front end no projeto. Tem como objetivo calcular o frete de uma encomenda e gerar o comprovante.",
+      text: "Projeto desenvolvido com a equipe da DarwinSoft. Onde atuei como desenvolvedor front end no projeto. Tem como objetivo calcular o frete de uma encomenda e gerar o comprovante de destino.",
       link: "",
       techs: [""],
       tags: ["Trabalho", "Sistema", "React"],
