@@ -26,27 +26,9 @@ export function About() {
           <br />
           <br />
           <br />
-          Também atuo na{" "}
-          <a
-            href="https://www.instagram.com/darwin.soft/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            {" "}
-            DarwinSoft{" "}
-          </a>{" "}
+          Também atuo como Freelancer nas horas vagas,
           desenvolvendo aplicações web, com objetivo de facilitar o controle
-          comercial (serviços/vendas) de um determinado estabelecimento. <br />
-          Desenvolvi front-end de CRM e um TMS para a{" "}
-          <a
-            href="https://www.jadlog.com.br/jadlog/home"
-            target="_blank"
-            rel="noreferrer"
-          >
-            jadlog
-          </a>{" "}
-          uma grande transportadora nacional.
-          <br />
+          comercial (serviços/vendas) de microempreendedores. <br />
         </p>
         <h1 id="skills">Skills:</h1>
         <p className="titulo">Front-End:</p>
