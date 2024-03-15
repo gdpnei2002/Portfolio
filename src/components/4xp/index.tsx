@@ -30,22 +30,6 @@ export function Xp() {
         <br />
         <br />
       </p>
-      <p className="titulo">Desenvolvedor Front-End</p>
-      <p className="tempo">Dez.2022 - Atualmente</p>
-      <p className="tipo">Thinker</p>
-      <p className="detalhes">
-        Também participo da equipe de desenvolvimento da empresa{" "}
-        <a
-          href="https://www.instagram.com/darwin.soft/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          {" "}
-          DarwinSoft{" "}
-        </a>{" "}
-        como programador front-end, tenho como foco desenvolver sistemas de
-        CRM's e TMS's.
-      </p>
       <hr />
     </Container>
   );
