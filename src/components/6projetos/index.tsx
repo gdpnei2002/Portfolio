@@ -19,6 +19,7 @@ import cerbrum from "../../assets/projects/cerbrum.png";
 import firstWeekThinker from "../../assets/projects/firstWeekThinker.png";
 import spm from "../../assets/projects/spm.png";
 import steps from "../../assets/projects/steps.png";
+import jadlog from "../../assets/projects/jadlog.png";
 import { CustomSelect, Projetcs } from "./style";
 
 export function Projetos() {
@@ -166,6 +167,14 @@ export function Projetos() {
       link: "",
       techs: [""],
       tags: ["Trabalho", "Sistema", "Angular", ".Net"],
+    },
+    {
+      image: jadlog,
+      title: "Jadlog",
+      text: "Projeto desenvolvido com a equipe da DarwinSoft. Onde atuei como desenvolvedor front end no projeto. Tem como objetivo calcular o frete de uma encomenda e gerar o comprovante.",
+      link: "",
+      techs: [""],
+      tags: ["Trabalho", "Sistema", "React"],
     },
     {
       image: embreve,
