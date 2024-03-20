@@ -19,7 +19,7 @@ export function About() {
             {" "}
             Think A.M.{" "}
           </a>{" "}
-          desenvolvendo aplicações web, com objetivo de facilitar o control
+          desenvolvendo aplicações web, com objetivo de facilitar o controle
           comercial (serviços/vendas) de um determinado estabelecimento. <br />
           Desenvolvi front-end de CRM's para alguns sistemas de vendas e
           criações de landing pages.
