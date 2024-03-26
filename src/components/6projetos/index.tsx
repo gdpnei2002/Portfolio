@@ -35,7 +35,7 @@ export function Projetos() {
     {
       image: pokedex,
       title: "Pokedex",
-      text: "Desafio proposto por Vinicius Pasquatonio do canal Pasquadev. Consiste em uma integração da PokeApi e as estilizações foram por conta própria",
+      text: "Desafio proposto por Vinicius Pasquatonio do canal Pasquadev. Consiste em uma integração da PokeApi e as estilizações foram por conta própria.",
       link: "https://pokedexreact-dun.vercel.app/",
       techs: ["React"],
       tags: ["Estudo", "API", "React"],
@@ -67,7 +67,7 @@ export function Projetos() {
     {
       image: mycardinho,
       title: "My Cardinho",
-      text: "My cardinho é um trabalho da faculdade, com o objetivo de encerrar nossas atividades. Atualmente é apenas um CRUD. Front-end feito em Next.js, consumindo uma API Node.js",
+      text: "My cardinho é um trabalho da faculdade, com o objetivo de encerrar nossas atividades. Atualmente é apenas um CRUD. Front-end feito em Next.js, consumindo uma API Node.js.",
       link: "https://github.com/gdpnei2002/crud-next-node",
       techs: ["React", "Node"],
       tags: ["Estudo", "React", "Node"],
@@ -123,7 +123,7 @@ export function Projetos() {
     {
       image: vocepolicia,
       title: "Você na polícia",
-      text: "Trata-se de uma landing page com o propósito de promover um curso direcionado a concursos públicos para a Polícia Militar, disponível na plataforma Hotmart. Este projeto foi desenvolvido utilizando React",
+      text: "Trata-se de uma landing page com o propósito de promover um curso direcionado a concursos públicos para a Polícia Militar, disponível na plataforma Hotmart. Este projeto foi desenvolvido utilizando React.",
       link: "https://www.vocenapolicia.com.br/",
       techs: ["React"],
       tags: ["Trabalho", "Landing Page", "React"],
@@ -155,7 +155,7 @@ export function Projetos() {
     {
       image: spm,
       title: "SPM",
-      text: "É um projeto desenvolvido com objetivo de melhorar o gerenciamento da Secretaria de Políticas Públicas para Mulheres. Conta com uma equipe completa como designers, product owner e programadores do front e back end",
+      text: "É um projeto desenvolvido com objetivo de melhorar o gerenciamento da Secretaria de Políticas Públicas para Mulheres. Conta com uma equipe completa como designers, product owner e programadores do front e back end.",
       link: "https://www.facebook.com/PrefeituradeCaruaru/photos/a.549930408368020/5895878380439836/?type=3&locale=pt_BR",
       techs: ["Angular"],
       tags: ["Trabalho", "Sistema", "React", "Node.JS"],
