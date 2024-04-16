@@ -32,12 +32,12 @@ export function Xp() {
           {" "}
           UpDelivery,{" "}
         </a>{" "}
-         na 
+         na empresa de pesquisa fisioterapeutica
         <a href="http://www.stepslab.com.br/" target="_blank" rel="noreferrer">
           {" "}
           Steps{" "}
         </a>{" "}
-        e na 
+        e na empresa de podologia
         <a href="https://clinicabompe.com.br/home" target="_blank" rel="noreferrer">
           {" "}
           Clinica Bom Pé{" "}
