@@ -10,15 +10,14 @@ export function Xp() {
       <p className="tipo">Freelance</p>
       <p className="detalhes">
         Desenvolvo landing pages de maneira independente, utilizando HTML | CSS
-        | JS | REACT | ANGULAR com o propósito de ampliar a visibilidade dos
-        seus produtos ou serviços
+        | JS | REACT | NEXT | ANGULAR | .NET | NODE | EXPRESS | NEST com o propósito de ampliar a visibilidade dos
+        seus produtos ou serviços.
         <br />
-        Experiência em criação de CRM's para empresas no ramo de saúde e
-        imobiliário. <br />
+        Experiência em desenvolvimento de sistemas para diversos setores, como saúde, imobiliário, eventos sociais, educação, importadora, fábrica e transporte.<br />
         <br />
       </p>
       <p className="titulo">Desenvolvedor Full-Stack</p>
-      <p className="tempo">Set.2022 - Atualmente</p>
+      <p className="tempo">Ago.2022 - Mai.2024</p>
       <p className="tipo">Thinker</p>
       <p className="detalhes">
         Hoje participo da equipe de desenvolvimento (Squad Pilots) da empresa{" "}
@@ -40,7 +39,7 @@ export function Xp() {
         e na empresa de podologia
         <a href="https://clinicabompe.com.br/home" target="_blank" rel="noreferrer">
           {" "}
-          Clinica Bom Pé{" "}
+          Clinica Bom Pé.{" "}
         </a>{" "}
         <br />
         <br />
