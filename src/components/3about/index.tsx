@@ -14,7 +14,7 @@ export function About() {
           de aplicações web.
           <br />
           <br />
-          Atualmente aplico o meu conhecimento em desenvolvimentos na{" "}
+          Trabalhei com desenvolvimento na{" "}
           <a href="https://thinkam.net/home" target="_blank" rel="noreferrer">
             {" "}
             Think A.M.{" "}

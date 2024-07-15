@@ -20,7 +20,7 @@ export function Xp() {
       <p className="tempo">Ago.2022 - Mai.2024</p>
       <p className="tipo">Thinker</p>
       <p className="detalhes">
-        Hoje participo da equipe de desenvolvimento (Squad Pilots) da empresa{" "}
+        Participei da equipe de desenvolvimento (Squad Pilots) da empresa{" "}
         <a href="https://thinkam.net/home" target="_blank" rel="noreferrer">
           {" "}
           Think A.M.{" "}
