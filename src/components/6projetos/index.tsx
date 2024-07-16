@@ -21,7 +21,7 @@ import steps from "../../assets/projects/steps.png";
 import jadlog from "../../assets/projects/jadlog.png";
 import naven from "../../assets/projects/naven.jpeg";
 import tokAlho from "../../assets/projects/tokAlho.jpeg";
-import upDelivery from "../../assets/projects/upDelivery.jpeg";
+import upDelivery from "../../assets/projects/upDelivery.png";
 
 import { CustomSelect, Projetcs } from "./style";
 import Card from "./cards";
