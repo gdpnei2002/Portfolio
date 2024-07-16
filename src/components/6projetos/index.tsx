@@ -20,6 +20,7 @@ import spm from "../../assets/projects/spm.png";
 import steps from "../../assets/projects/steps.png";
 import jadlog from "../../assets/projects/jadlog.png";
 import naven from "../../assets/projects/naven.jpeg";
+import tokAlho from "../../assets/projects/tokAlho.jpeg";
 import upDelivery from "../../assets/projects/upDelivery.jpeg";
 
 import { CustomSelect, Projetcs } from "./style";
