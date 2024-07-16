@@ -19,11 +19,9 @@ import firstWeekThinker from "../../assets/projects/firstWeekThinker.png";
 import spm from "../../assets/projects/spm.png";
 import steps from "../../assets/projects/steps.png";
 import jadlog from "../../assets/projects/jadlog.png";
-import naven from "../../assets/projects/WhatsApp Image 2024-07-16 at 17.03.05.jpeg";
-
+import naven from "../../assets/projects/naven.jpeg";
 import { CustomSelect, Projetcs } from "./style";
 import Card from "./cards";
-import { Cardsss } from "./cardsGit";
 
 export function Projetos() {
   const cards = [
@@ -152,6 +150,13 @@ export function Projetos() {
       text: "Projeto desenvolvido com a equipe Squad Pilots da Think AM. Onde atuei como full stack no projeto do início ao fim.  Tem como objetivo melhorar tratamentos na área da fisioterapia.",
       link: "http://www.stepslab.com.br/",
       tags: ["Trabalho", "Sistema", "Angular", ".Net"],
+    },
+    {
+      image: naven,
+      title: "Naven",
+      text: "Projeto desenvolvido com a equipe Squad Pilots da Think AM. Onde atuei como full stack no projeto do início ao fim.  Tem como objetivo melhorar tratamentos na área da fisioterapia.",
+      link: "http://www.stepslab.com.br/",
+      tags: ["Trabalho", "Sistema", "React", "Node"],
     },
     {
       image: ssaude,
