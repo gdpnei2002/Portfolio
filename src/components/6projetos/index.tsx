@@ -3,7 +3,7 @@ import Rentalx from "../../assets/projects/rentalx.png";
 import pokedex from "../../assets/projects/pokedex.png";
 import ignews from "../../assets/projects/ignews.png";
 import dtmoney from "../../assets/projects/dtmoney.png";
-import julia from "../../assets/projects/julia.png";
+// import julia from "../../assets/projects/julia.png";
 import acclanding from "../../assets/projects/acclanding.png";
 import gira from "../../assets/projects/gira.png";
 import ssaude from "../../assets/projects/ssaude.jpeg";
