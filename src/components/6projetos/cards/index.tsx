@@ -6,7 +6,6 @@ interface CardProps {
   title: string;
   text: string;
   link: string;
-  techs: string[];
   tags: string[];
 }
 
@@ -19,6 +18,7 @@ const CardContainer = styled.div`
   background-color: #1e2735;
   border-radius: 4%;
   margin: 2%;
+  max-width: 535px;
 
   &:hover {
     background-color: #1a79e5;
@@ -29,10 +29,10 @@ const CardContainer = styled.div`
 `;
 
 const CardImage = styled.img`
-  width: 100%;
-  height: 300px;
+  width:100%;
+  max-width: 533px;
+  height: 226px;
   object-fit: cover;
-  margin-right: 16px;
   border-radius: 4%;
 `;
 
@@ -64,7 +64,7 @@ const Cards: React.FC<CardProps> = ({ image, text, tags, title, link }) => {
     <CardContainer>
       <a target="_blank" rel="noreferrer" href={link}>
         <CardImage src={image} alt={image} />
-      </a>
+      </a> 
       <CardContent>
         <CardText>{title}</CardText>
         <div>
