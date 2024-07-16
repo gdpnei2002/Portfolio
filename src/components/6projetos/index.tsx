@@ -161,9 +161,16 @@ export function Projetos() {
       tags: ["Trabalho", "Sistema", "Angular", ".Net"],
     },
     {
+      image: tokAlho,
+      title: "Tok Alho",
+      text: "Desde a gestão da fabrica ao ERP da loja, esse sistema une dois sistemas em um só, assim promovendo agilidade no processo de fabricação e venda de produtos",
+      link: "http://www.stepslab.com.br/",
+      tags: ["Trabalho", "Sistema", "React", "Node"],
+    },
+    {
       image: naven,
       title: "Naven",
-      text: "Projeto desenvolvido com a equipe Squad Pilots da Think AM. Onde atuei como full stack no projeto do início ao fim.  Tem como objetivo melhorar tratamentos na área da fisioterapia.",
+      text: "CRM para imoboliária onde o gestor tem como objetivo controlar clientes e imóveis de maneira dinamica, gerando contratos automaticamente.",
       link: "",
       tags: ["Trabalho", "Sistema", "React", "Node"],
     },
