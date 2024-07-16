@@ -20,6 +20,8 @@ import spm from "../../assets/projects/spm.png";
 import steps from "../../assets/projects/steps.png";
 import jadlog from "../../assets/projects/jadlog.png";
 import naven from "../../assets/projects/naven.jpeg";
+import upDelivery from "../../assets/projects/upDelivery.jpeg";
+
 import { CustomSelect, Projetcs } from "./style";
 import Card from "./cards";
 
@@ -138,6 +140,13 @@ export function Projetos() {
       tags: ["Trabalho", "Sistema", "React"],
     },
     {
+      image: upDelivery,
+      title: "UpDelivery",
+      text: "Sistema criado para a transportadora de mesmo nome, onde teve a ideia de gerenciamento de cada pedido, motorista e cliente.",
+      link: "https://www.instagram.com/updelivery_/",
+      tags: ["Trabalho", "Sistema", "Angular", ".Net"],
+    },
+    {
       image: cerbrum,
       title: "Cerbrum",
       text: "Na maior empresa no seguimento de educação na região da minha cidade tem apenas um projeto de mesmo nome, ele consiste em gerenciar toda uma instituição de ensino, seja escola ou faculdade. No Cerbrum trabalhei em um sistema usando principalmente o .Net e JavaScript.",
@@ -155,7 +164,7 @@ export function Projetos() {
       image: naven,
       title: "Naven",
       text: "Projeto desenvolvido com a equipe Squad Pilots da Think AM. Onde atuei como full stack no projeto do início ao fim.  Tem como objetivo melhorar tratamentos na área da fisioterapia.",
-      link: "http://www.stepslab.com.br/",
+      link: "",
       tags: ["Trabalho", "Sistema", "React", "Node"],
     },
     {
