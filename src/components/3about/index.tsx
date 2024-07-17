@@ -39,7 +39,7 @@ export function About() {
         <p className="skills">STYLED COMPONENTS, SASS, CHAKRA UI.</p>
         <p className="titulo">Back-End:</p>
         <p className="skills">NODE, DOCKER, API'S, MY SQL, LARAVEL.</p>
-        <a target="_blank"  href="https://1drv.ms/w/s!AsJDhQPgLP-cgYo5DpRB_JWOUrpEEA?e=U4rg4h" rel="noreferrer"><button className="curriculo">Currículo</button></a>
+        <a target="_blank"  href="https://1drv.ms/w/c/9cff2ce0038543c2/EcJDhQPgLP8ggJzVRQAAAAABH4ZbUf6cJrh9HVFiECJMIQ?e=FQZ7tH" rel="noreferrer"><button className="curriculo">Currículo</button></a>
       </div>
     </Container>
   );
