@@ -14,21 +14,27 @@ export function About() {
           de aplicações web.
           <br />
           <br />
+          Atuo como Desenvolvedor Autônomo em tempo integral,
+          desenvolvendo aplicações web e mobile, com objetivo de facilitar o controle
+          comercial de vendas de serviços e/ou vendas de pequenas e médias empresas.
+          <br />
+          <br />
           Trabalhei com desenvolvimento na{" "}
           <a href="https://thinkam.net/home" target="_blank" rel="noreferrer">
             {" "}
             Think A.M.{" "}
           </a>{" "}
           desenvolvendo aplicações web, com objetivo de facilitar o controle
-          comercial (serviços/vendas) de um determinado estabelecimento. <br />
+          de gerenciamento (serviços/vendas) de um determinado estabelecimento. 
+          <br />
+          <br />
           Desenvolvi front-end de CRM's para alguns sistemas de vendas e
           criações de landing pages.
           <br />
           <br />
-          <br />
-          Também atuo como Freelancer nas horas vagas,
+          Também atuo como Desenvolvedor Autônomo nas horas vagas,
           desenvolvendo aplicações web, com objetivo de facilitar o controle
-          comercial (serviços/vendas) de microempreendedores. <br />
+          comercial de vendas de serviços e/ou vendas de pequenas e médias empresas. <br />
         </p>
         <h1 id="skills">Skills:</h1>
         <p className="titulo">Front-End:</p>
