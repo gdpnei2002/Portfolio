@@ -32,9 +32,6 @@ export function About() {
           criações de landing pages.
           <br />
           <br />
-          Também atuo como Desenvolvedor Autônomo nas horas vagas,
-          desenvolvendo aplicações web, com objetivo de facilitar o controle
-          comercial de vendas de serviços e/ou vendas de pequenas e médias empresas. <br />
         </p>
         <h1 id="skills">Skills:</h1>
         <p className="titulo">Front-End:</p>
